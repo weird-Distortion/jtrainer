@@ -1,6 +1,7 @@
-package answers.arrays.task1;
+package answers.arrays.task2;
 
 import java.util.Arrays;
+import java.util.Comparator;
 
 public class Solution {
     private static final String[] friends = {"Emmanuel", "Giuseppe", "Angela", "Donald", "Justin", "Shinzo", "Vladimir", "Teresa"};
@@ -18,7 +19,7 @@ public class Solution {
      * @param friends - not sorted friends' names
      */
     public static void sortFriends(String[] friends) {
-        Arrays.sort(friends);
+        Arrays.sort(friends, Comparator.comparing(String::length));
         printArray(friends);
     }
 

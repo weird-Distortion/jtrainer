@@ -2,11 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="25a66e9a-df3f-4532-b0b3-166a437be31b" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/answers/arrays/task1/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/arrays/task1/FriendsOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/answers/arrays/task2/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/arrays/task2/FriendsLengthOrder.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/answers/arrays/task1/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/answers/arrays/task1/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exercises/arrays/task1/FriendsOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exercises/arrays/task1/FriendsOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/answers/arrays/task1/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/answers/arrays/task1/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/exercises/arrays/task1/FriendsOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/exercises/arrays/task1/FriendsOrder.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -29,19 +32,40 @@
         </entry>
       </file>
       <file leaf-file-name="Solution.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/answers/arrays/task1/Solution.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/answers/arrays/task2/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="21" column="7" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
+            <state relative-caret-position="288">
+              <caret line="16" column="22" lean-forward="true" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FriendsOrder.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="FriendsLengthOrder.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/exercises/arrays/task2/FriendsLengthOrder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="10" column="68" selection-start-line="10" selection-start-column="68" selection-end-line="10" selection-end-column="68" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/answers/arrays/task1/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="9" column="43" lean-forward="true" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FriendsOrder.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/exercises/arrays/task1/FriendsOrder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            <state>
+              <caret column="29" selection-start-column="29" selection-end-line="8" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -70,9 +94,12 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/main/java/answers/task1/Solution.java" />
-        <option value="$PROJECT_DIR$/src/main/java/answers/arrays/task1/Solution.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/main/java/answers/arrays/task2/Solution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/answers/arrays/task1/Solution.java" />
         <option value="$PROJECT_DIR$/src/main/java/exercises/arrays/task1/FriendsOrder.java" />
+        <option value="$PROJECT_DIR$/src/main/java/exercises/arrays/task2/FriendsLengthOrder.java" />
       </list>
     </option>
   </component>
@@ -156,7 +183,7 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="answers" type="462c0819:PsiDirectoryNode" />
               <item name="arrays" type="462c0819:PsiDirectoryNode" />
-              <item name="task1" type="462c0819:PsiDirectoryNode" />
+              <item name="task2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="jtrainer" type="b2602c69:ProjectViewProjectNode" />
@@ -173,7 +200,17 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="exercises" type="462c0819:PsiDirectoryNode" />
-              <item name="task1" type="462c0819:PsiDirectoryNode" />
+              <item name="arrays" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jtrainer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jtrainer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="exercises" type="462c0819:PsiDirectoryNode" />
+              <item name="arrays" type="462c0819:PsiDirectoryNode" />
+              <item name="task2" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -204,7 +241,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Solution (1)">
+    <configuration name="FriendsLengthOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercises.arrays.task2.FriendsLengthOrder" />
+      <module name="jtrainer" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercises.arrays.task2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="answers.arrays.task2.Solution" />
+      <module name="jtrainer" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="answers.arrays.task2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="answers.arrays.task1.Solution" />
       <module name="jtrainer" />
@@ -257,8 +316,15 @@
       <properties />
       <listeners />
     </configuration>
+    <list>
+      <item itemvalue="Application.Solution" />
+      <item itemvalue="Application.Solution (1)" />
+      <item itemvalue="Application.FriendsLengthOrder" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution (1)" />
+        <item itemvalue="Application.FriendsLengthOrder" />
         <item itemvalue="Application.Solution" />
       </list>
     </recent_temporary>
@@ -273,12 +339,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1532950920045</updated>
-      <workItem from="1532950924206" duration="5193000" />
+      <workItem from="1532950924206" duration="9298000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5193000" />
+    <option name="totallyTimeSpent" value="9298000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="69" y="25" width="1851" height="1055" extended-state="6" />
@@ -330,17 +396,51 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/answers/arrays/task1/Solution.java">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="20" selection-start-column="20" selection-end-column="20" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/answers/arrays/task2/Ыщдгешщт.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="21" column="7" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
+        <state relative-caret-position="36">
+          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/exercises/arrays/task1/FriendsOrder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        <state>
+          <caret column="29" selection-start-column="29" selection-end-line="8" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/answers/arrays/task1/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="43" lean-forward="true" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/answers/arrays/task2/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="22" lean-forward="true" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/exercises/arrays/task2/FriendsLengthOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="68" selection-start-line="10" selection-start-column="68" selection-end-line="10" selection-end-column="68" />
         </state>
       </provider>
     </entry>
