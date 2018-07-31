@@ -5,7 +5,7 @@ import java.util.Arrays;
 /**
  * Our friends have a kindly meeting today.
  * But they don't know where each one has to seat.
- * Help friends to take seats by alphabet order.
+ * Help the fellows to take seats by alphabet order.
  * Print the result in terminal.
  */
 
