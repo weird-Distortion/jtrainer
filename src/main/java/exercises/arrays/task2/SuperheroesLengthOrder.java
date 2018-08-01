@@ -1,7 +1,6 @@
-package answers.arrays.task2;
+package exercises.arrays.task2;
 
 import java.util.Arrays;
-import java.util.Comparator;
 
 /**
  * * RANG-RANG *
@@ -12,7 +11,7 @@ import java.util.Comparator;
  * Print the result in terminal.
  */
 
-public class Solution {
+public class SuperheroesLengthOrder {
 
     private static final String[] superheroes = {"Emmanuel", "Giuseppe", "Angela", "Donald", "Justin", "Shinzo", "Vladimir", "Teresa"};
 
@@ -23,22 +22,11 @@ public class Solution {
         sortHeroes(superheroes);
     }
 
-    /**
-     * Sorting method.
-     *
-     * @param superheroes - not sorted friends' names
-     */
     public static void sortHeroes(String[] superheroes) {
-        Arrays.sort(superheroes, Comparator.comparing(String::length));
-        printArray(superheroes);
+        /* add your code here */
     }
 
-    /**
-     * Simple printing method.
-     *
-     * @param array - sorted superheroes' names
-     */
     private static void printArray(String[] array) {
-        System.out.println("Now our superheroes have their seats:\n" + Arrays.toString(array));
+        System.out.println("Now our superheroes have their seats:\n" /* add your code here */);
     }
 }

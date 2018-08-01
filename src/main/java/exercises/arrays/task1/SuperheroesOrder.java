@@ -1,4 +1,4 @@
-package answers.arrays.task1;
+package exercises.arrays.task1;
 
 import java.util.Arrays;
 
@@ -9,7 +9,7 @@ import java.util.Arrays;
  * Print the result in terminal.
  */
 
-public class Solution {
+public class SuperheroesOrder {
 
     private static final String[] superheroes = {"Emmanuel", "Giuseppe", "Angela", "Donald", "Justin", "Shinzo", "Vladimir", "Teresa"};
 
@@ -20,22 +20,11 @@ public class Solution {
         sortHeroes(superheroes);
     }
 
-    /**
-     * Sorting method.
-     *
-     * @param superheroes - not sorted superheroes' names
-     */
     public static void sortHeroes(String[] superheroes) {
-        Arrays.sort(superheroes);
-        printArray(superheroes);
+        /* add your code here */
     }
 
-    /**
-     * Simple printing method.
-     *
-     * @param array - sorted friends' names
-     */
     private static void printArray(String[] array) {
-        System.out.println("Now our superheroes have their seats:\n" + Arrays.toString(array));
+        System.out.println("Now our superheroes have their seats:\n" /* add your code here */);
     }
 }
