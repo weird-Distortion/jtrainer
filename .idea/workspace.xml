@@ -2,21 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="25a66e9a-df3f-4532-b0b3-166a437be31b" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/answers/arrays/task3/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/arrays/task1/SuperheroesOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/arrays/task2/SuperheroesLengthOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/arrays/task3/Leader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/answers/arrays/task4/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/arrays/task4/Spies.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/answers/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/answers/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/answers/Superhero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/answers/Superhero.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/answers/arrays/task1/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/answers/arrays/task1/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/answers/arrays/task2/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/answers/arrays/task2/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/exercises/arrays/task1/FriendsOrder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/exercises/arrays/task2/FriendsLengthOrder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/answers/arrays/task1/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/answers/arrays/task1/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/answers/arrays/task2/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/answers/arrays/task2/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/exercises/arrays/task1/FriendsOrder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/exercises/arrays/task2/FriendsLengthOrder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/answers/arrays/task3/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/answers/arrays/task3/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exercises/arrays/task3/Leader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exercises/arrays/task3/Leader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/answers/arrays/task3/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/answers/arrays/task3/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/exercises/arrays/task3/Leader.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/exercises/arrays/task3/Leader.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -32,38 +24,8 @@
       <file leaf-file-name="Solution.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/answers/arrays/task1/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="683">
-              <caret line="38" column="47" selection-start-line="38" selection-start-column="47" selection-end-line="38" selection-end-column="47" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/answers/arrays/task2/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="683">
-              <caret line="41" column="47" selection-start-line="41" selection-start-column="47" selection-end-line="41" selection-end-column="47" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SuperheroesLengthOrder.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/exercises/arrays/task2/SuperheroesLengthOrder.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="414">
-              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SuperheroesOrder.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/exercises/arrays/task1/SuperheroesOrder.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+            <state relative-caret-position="378">
+              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
             </state>
           </provider>
         </entry>
@@ -71,12 +33,22 @@
       <file leaf-file-name="Solution.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/answers/arrays/task3/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="11" column="43" lean-forward="true" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="43" />
+            <state relative-caret-position="126">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#788#789#0" expanded="true" />
-                <element signature="e#851#852#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/answers/arrays/task2/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="423">
+              <caret line="28" column="53" lean-forward="true" selection-start-line="28" selection-start-column="28" selection-end-line="28" selection-end-column="53" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -85,12 +57,8 @@
       <file leaf-file-name="Leader.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/exercises/arrays/task3/Leader.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-              <folding>
-                <element signature="e#741#742#0" expanded="true" />
-                <element signature="e#813#814#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="216">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
             </state>
           </provider>
         </entry>
@@ -130,10 +98,12 @@
         <option value="$PROJECT_DIR$/src/main/java/exercises/arrays/task1/FriendsOrder.java" />
         <option value="$PROJECT_DIR$/src/main/java/exercises/arrays/task1/SuperheroesOrder.java" />
         <option value="$PROJECT_DIR$/src/main/java/exercises/arrays/task2/SuperheroesLengthOrder.java" />
-        <option value="$PROJECT_DIR$/src/main/java/answers/arrays/task2/Solution.java" />
         <option value="$PROJECT_DIR$/src/main/java/answers/arrays/task1/Solution.java" />
-        <option value="$PROJECT_DIR$/src/main/java/answers/arrays/task3/Solution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/answers/arrays/task2/Solution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/exercises/arrays/task4/Spies.java" />
+        <option value="$PROJECT_DIR$/src/main/java/answers/arrays/task4/Solution.java" />
         <option value="$PROJECT_DIR$/src/main/java/exercises/arrays/task3/Leader.java" />
+        <option value="$PROJECT_DIR$/src/main/java/answers/arrays/task3/Solution.java" />
       </list>
     </option>
   </component>
@@ -165,7 +135,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -245,6 +214,16 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="answers" type="462c0819:PsiDirectoryNode" />
+              <item name="arrays" type="462c0819:PsiDirectoryNode" />
+              <item name="task4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jtrainer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jtrainer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="exercises" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -255,26 +234,6 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="exercises" type="462c0819:PsiDirectoryNode" />
               <item name="arrays" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jtrainer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jtrainer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="exercises" type="462c0819:PsiDirectoryNode" />
-              <item name="arrays" type="462c0819:PsiDirectoryNode" />
-              <item name="task1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jtrainer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jtrainer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="exercises" type="462c0819:PsiDirectoryNode" />
-              <item name="arrays" type="462c0819:PsiDirectoryNode" />
-              <item name="task2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="jtrainer" type="b2602c69:ProjectViewProjectNode" />
@@ -286,10 +245,21 @@
               <item name="arrays" type="462c0819:PsiDirectoryNode" />
               <item name="task3" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="jtrainer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jtrainer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="exercises" type="462c0819:PsiDirectoryNode" />
+              <item name="arrays" type="462c0819:PsiDirectoryNode" />
+              <item name="task4" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="AndroidView" />
     </panes>
   </component>
@@ -302,7 +272,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -316,7 +286,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Leader">
+  <component name="RunManager" selected="Application.Solution (3)">
     <configuration name="Leader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="exercises.arrays.task3.Leader" />
       <module name="jtrainer" />
@@ -350,13 +320,13 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="answers.arrays.task1.Solution" />
+    <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="answers.arrays.task4.Solution" />
       <module name="jtrainer" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="answers.arrays.task1.*" />
+          <option name="PATTERN" value="answers.arrays.task4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -414,19 +384,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.Solution" />
       <item itemvalue="Application.Solution (1)" />
       <item itemvalue="Application.SuperheroesLengthOrder" />
       <item itemvalue="Application.Solution (2)" />
       <item itemvalue="Application.Leader" />
+      <item itemvalue="Application.Solution (3)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution (3)" />
         <item itemvalue="Application.Leader" />
         <item itemvalue="Application.Solution (2)" />
         <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.SuperheroesLengthOrder" />
-        <item itemvalue="Application.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -442,47 +412,48 @@
       <updated>1532950920045</updated>
       <workItem from="1532950924206" duration="10142000" />
       <workItem from="1533046609957" duration="2496000" />
-      <workItem from="1533133820938" duration="5871000" />
+      <workItem from="1533133820938" duration="6733000" />
+      <workItem from="1533202635059" duration="7856000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18509000" />
+    <option name="totallyTimeSpent" value="27227000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="69" y="25" width="1851" height="1055" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info id="Capture Tool" order="2" />
-      <window_info id="Designer" order="2" />
-      <window_info anchor="right" id="Database" order="3" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Messages" order="7" weight="0.32998884" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="bottom" id="Java Enterprise" order="7" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32998884" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25540167" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25817174" />
       <window_info id="Web" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32998884" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32998884" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -492,6 +463,54 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/answers/arrays/task1/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="684">
+          <caret line="38" column="47" selection-start-line="38" selection-start-column="47" selection-end-line="38" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/answers/arrays/task2/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="738">
+          <caret line="41" column="47" selection-start-line="41" selection-start-column="47" selection-end-line="41" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/exercises/arrays/task2/SuperheroesLengthOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/exercises/arrays/task1/SuperheroesOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/answers/arrays/task3/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="26" column="28" lean-forward="true" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/exercises/arrays/task3/Leader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -751,54 +770,62 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/exercises/arrays/task1/SuperheroesOrder.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/exercises/arrays/task2/SuperheroesLengthOrder.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="414">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/exercises/arrays/task4/Spies.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/answers/arrays/task4/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="28" column="7" selection-start-line="28" selection-start-column="7" selection-end-line="28" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/answers/arrays/task1/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/answers/arrays/task2/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="683">
-          <caret line="41" column="47" selection-start-line="41" selection-start-column="47" selection-end-line="41" selection-end-column="47" />
+        <state relative-caret-position="423">
+          <caret line="28" column="53" lean-forward="true" selection-start-line="28" selection-start-column="28" selection-end-line="28" selection-end-column="53" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/answers/arrays/task1/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="683">
-          <caret line="38" column="47" selection-start-line="38" selection-start-column="47" selection-end-line="38" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/answers/arrays/task3/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="11" column="43" lean-forward="true" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="43" />
+        <state relative-caret-position="126">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#788#789#0" expanded="true" />
-            <element signature="e#851#852#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/exercises/arrays/task3/Leader.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-          <folding>
-            <element signature="e#741#742#0" expanded="true" />
-            <element signature="e#813#814#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="216">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>

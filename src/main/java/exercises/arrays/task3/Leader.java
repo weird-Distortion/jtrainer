@@ -3,10 +3,14 @@ package exercises.arrays.task3;
 import java.util.Arrays;
 
 /**
- * who's the leader
+ * "So who is leading us on?" asked some of the superheroes.
+ * "I know how to choose! The guy with the longest di.." said Donald.
+ * "WTF?! That's sexism, racism, antisim...." yelled Angela.
+ * "Ok, OK. Calm down! The leader is the hero with the coolest and longest name. Is that ok?" asked Vladimir.
+ *
+ * Find the hero with the longest d.. name. So he's going to lead the fellows. Print his name with capital letters.
  */
 
-//TODO complete lore
 public class Leader {
     private static final String[] superheroes = {"Emmanuel", "Giuseppe", "Angela", "Donald", "Justin", "Shinzo", "Vladimir", "Teresa"};
 
