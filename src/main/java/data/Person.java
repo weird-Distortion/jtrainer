@@ -1,6 +1,4 @@
-package answers;
-
-import java.util.List;
+package data;
 
 public abstract class Person {
     private String name;

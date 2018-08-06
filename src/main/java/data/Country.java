@@ -1,16 +1,12 @@
-package answers;
-
-import java.util.List;
+package data;
 
 public class Country {
     private String countryName;
     private int population;
-    private List<Person> citizens;
 
-    public Country(String countryName, int population, List<Person> citizens) {
+    public Country(String countryName, int population) {
         this.countryName = countryName;
         this.population = population;
-        this.citizens = citizens;
     }
 
     public String getCountryName() {
@@ -27,13 +23,5 @@ public class Country {
 
     public void setPopulation(int population) {
         this.population = population;
-    }
-
-    public List<Person> getCitizens() {
-        return citizens;
-    }
-
-    public void setCitizens(List<Person> citizens) {
-        this.citizens = citizens;
     }
 }

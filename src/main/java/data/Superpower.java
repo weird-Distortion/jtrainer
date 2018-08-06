@@ -1,4 +1,4 @@
-package answers;
+package data;
 
 public class Superpower {
     private String superpowerName;
