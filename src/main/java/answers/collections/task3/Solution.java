@@ -1,12 +1,14 @@
-package answers.collections.task2;
+package answers.collections.task3;
 
 import data.DataClass;
+import data.Person;
 import data.Superhero;
 
-import java.util.Comparator;
 import java.util.List;
 
-//TODO add lore. Sorting by name length then print
+import static java.util.Comparator.comparing;
+
+//TODO add lore. Finding longest name with Optional;
 /**
  * Lore
  */
@@ -18,10 +20,9 @@ public class Solution {
         System.out.println("Here our superheroes:");
         superheroes.forEach(x -> System.out.print(x.getName() + " "));
 
-        System.out.println("\n\nSorting...\n");
+        System.out.println("\n\nCounting...\n");
 
-        System.out.println("Now heroes are sorted:");
-        superheroes.sort(Comparator.comparing(Superhero::getName).reversed());
-        superheroes.forEach(x -> System.out.print(x.getName() + " "));
+        System.out.println("Longest name is:");
+        System.out.println(superheroes.stream().map(Person::getName).max(comparing(String::length)).get());
     }
 }
