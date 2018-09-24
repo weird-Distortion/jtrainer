@@ -1,26 +1,26 @@
-package answers.recursion.task3;
+package answers.recursion.task4;
 
 /**
  * TODO complete lore
  *
  * Task:
  * Implement method that prints all digits of n
- * from first to last.
+ * from last to the first.
  * Split digits with space
  * Use recursion!
  */
 public class Solution {
     public static void main(String[] args) {
-        int n = 2456;
+        int n = 1026;
 
-        showDigits(n);
+        showReverseDigits(n);
     }
 
-    static void showDigits(int n) {
+    static void showReverseDigits(int n) {
         if (n < 10) System.out.print(n + " ");
         else {
-            showDigits(n / 10);
             System.out.print(n % 10 + " ");
+            showReverseDigits(n / 10);
         }
     }
 }
