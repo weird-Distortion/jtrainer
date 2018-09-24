@@ -1,1 +1,1 @@
-Java colections, arrays etc trainer.
+Java trainer. Colections, arrays, patterns, recursion etc.
