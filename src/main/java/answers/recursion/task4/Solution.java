@@ -16,7 +16,7 @@ public class Solution {
         showReverseDigits(n);
     }
 
-    static void showReverseDigits(int n) {
+    public static void showReverseDigits(int n) {
         if (n < 10) System.out.print(n + " ");
         else {
             System.out.print(n % 10 + " ");

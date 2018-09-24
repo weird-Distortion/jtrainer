@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="25a66e9a-df3f-4532-b0b3-166a437be31b" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/answers/recursion/task4/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/answers/recursion/task5/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/answers/recursion/task3/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/answers/recursion/task3/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/answers/recursion/task3/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/answers/recursion/task3/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/answers/recursion/task4/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/answers/recursion/task4/Solution.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -26,11 +27,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/answers/recursion/task4/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="7" column="26" lean-forward="true" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+            <state relative-caret-position="162">
+              <caret line="10" column="3" selection-start-line="2" selection-end-line="10" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/answers/recursion/task5/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="14" column="3" lean-forward="true" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -93,6 +103,7 @@
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/main/java/answers/recursion/task3/Solution.java" />
         <option value="$PROJECT_DIR$/src/main/java/answers/recursion/task4/Solution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/answers/recursion/task5/Solution.java" />
       </list>
     </option>
   </component>
@@ -203,6 +214,16 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="answers" type="462c0819:PsiDirectoryNode" />
+              <item name="recursion" type="462c0819:PsiDirectoryNode" />
+              <item name="task5" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jtrainer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jtrainer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="exercises" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -275,18 +296,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution">
-    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="answers.arrays.task7.Solution" />
-      <module name="jtrainer" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="answers.arrays.task7.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
+  <component name="RunManager" selected="Application.Solution (4)">
     <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="answers.collections.task1.Solution" />
       <module name="jtrainer" />
@@ -305,6 +315,17 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="answers.collections.task3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Solution (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="answers.recursion.task5.Solution" />
+      <module name="jtrainer" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="answers.recursion.task5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -373,19 +394,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.Solution (1)" />
       <item itemvalue="Application.Solution (2)" />
       <item itemvalue="Application.Solution (5)" />
       <item itemvalue="Application.Solution (3)" />
       <item itemvalue="Application.Solution" />
+      <item itemvalue="Application.Solution (4)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution (4)" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Solution (3)" />
         <item itemvalue="Application.Solution (5)" />
         <item itemvalue="Application.Solution (2)" />
-        <item itemvalue="Application.Solution (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -408,12 +429,12 @@
       <workItem from="1533577997305" duration="5654000" />
       <workItem from="1533644952347" duration="924000" />
       <workItem from="1533732414320" duration="3334000" />
-      <workItem from="1537810538356" duration="533000" />
+      <workItem from="1537810538356" duration="877000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50578000" />
+    <option name="totallyTimeSpent" value="50922000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="69" y="25" width="1851" height="1055" extended-state="6" />
@@ -458,13 +479,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/exercises/arrays/task3/Leader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -824,8 +838,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/answers/recursion/task4/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="26" lean-forward="true" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+        <state relative-caret-position="162">
+          <caret line="10" column="3" selection-start-line="2" selection-end-line="10" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/answers/recursion/task5/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="3" lean-forward="true" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
         </state>
       </provider>
     </entry>

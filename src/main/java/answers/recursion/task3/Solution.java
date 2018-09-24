@@ -16,7 +16,7 @@ public class Solution {
         showDigits(n);
     }
 
-    static void showDigits(int n) {
+    public static void showDigits(int n) {
         if (n < 10) System.out.print(n + " ");
         else {
             showDigits(n / 10);
