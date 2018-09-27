@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="25a66e9a-df3f-4532-b0b3-166a437be31b" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/answers/designPatterns/decoratorPattern/DecoratorSimulator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/answers/designPatterns/decoratorPattern/KingSandwich.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/answers/designPatterns/decoratorPattern/RoyalSandwich.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/answers/designPatterns/decoratorPattern/Sandwich.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/answers/designPatterns/decoratorPattern/decorators/Cheese.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/answers/designPatterns/decoratorPattern/decorators/IngredientDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/answers/designPatterns/decoratorPattern/decorators/Tomato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/answers/designPatterns/adapterPattern/AdapterAB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/answers/designPatterns/adapterPattern/AdapterInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/answers/designPatterns/adapterPattern/AdapterSimulator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/answers/designPatterns/adapterPattern/ClassA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/answers/designPatterns/adapterPattern/ClassB.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -22,31 +20,74 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ObserverJava9Main.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/answers/designPatterns/observerPattern_java9/ObserverJava9Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SingletonClass.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/answers/designPatterns/singletonPattern/SingletonClass.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DecoratorSimulator.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="DecoratorSimulator.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/answers/designPatterns/decoratorPattern/DecoratorSimulator.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="360">
               <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
               <folding>
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AdapterSimulator.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/answers/designPatterns/adapterPattern/AdapterSimulator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AdapterInterface.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/answers/designPatterns/adapterPattern/AdapterInterface.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ClassA.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/answers/designPatterns/adapterPattern/ClassA.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="3" column="32" lean-forward="true" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
+              <folding>
+                <element signature="e#149#150#0" expanded="true" />
+                <element signature="e#187#188#0" expanded="true" />
+                <element signature="e#222#223#0" expanded="true" />
+                <element signature="e#244#245#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AdapterAB.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/answers/designPatterns/adapterPattern/AdapterAB.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+              <folding>
+                <element signature="e#161#162#0" expanded="true" />
+                <element signature="e#196#197#0" expanded="true" />
+                <element signature="e#250#251#0" expanded="true" />
+                <element signature="e#283#284#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ClassB.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/answers/designPatterns/adapterPattern/ClassB.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="5" column="40" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
+              <folding>
+                <element signature="e#102#103#0" expanded="true" />
+                <element signature="e#138#139#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -95,32 +136,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="IngredientDecorator.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/answers/designPatterns/decoratorPattern/decorators/IngredientDecorator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="6" column="44" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Cheese.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/answers/designPatterns/decoratorPattern/decorators/Cheese.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="18" column="40" selection-start-line="18" selection-start-column="40" selection-end-line="18" selection-end-column="40" />
-              <folding>
-                <element signature="e#238#239#0" expanded="true" />
-                <element signature="e#278#279#0" expanded="true" />
-                <element signature="e#362#363#0" expanded="true" />
-                <element signature="e#389#390#0" expanded="true" />
-                <element signature="e#420#421#0" expanded="true" />
-                <element signature="e#444#445#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Tomato.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/answers/designPatterns/decoratorPattern/decorators/Tomato.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -133,26 +148,6 @@
                 <element signature="e#187#188#0" expanded="true" />
                 <element signature="e#232#233#0" expanded="true" />
                 <element signature="e#256#257#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SpyAgency.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/answers/designPatterns/observerPattern_java9/SpyAgency.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#474#475#0" expanded="true" />
-                <element signature="e#496#497#0" expanded="true" />
-                <element signature="e#604#605#0" expanded="true" />
-                <element signature="e#626#627#0" expanded="true" />
-                <element signature="e#576#577#0" expanded="true" />
-                <element signature="e#606#607#0" expanded="true" />
-                <element signature="e#728#729#0" expanded="true" />
-                <element signature="e#762#763#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -182,11 +177,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/answers/arrays/task4/Solution.java" />
-        <option value="$PROJECT_DIR$/src/main/java/exercises/arrays/task6/FixingNames.java" />
-        <option value="$PROJECT_DIR$/src/main/java/answers/arrays/task6/Solution.java" />
-        <option value="$PROJECT_DIR$/src/main/java/exercises/arrays/task7/SplitingUp.java" />
-        <option value="$PROJECT_DIR$/src/main/java/answers/arrays/task7/Solution.java" />
         <option value="$PROJECT_DIR$/src/main/java/exercises/arrays/task7/SplittingUp.java" />
         <option value="$PROJECT_DIR$/src/main/java/answers/Superhero.java" />
         <option value="$PROJECT_DIR$/src/main/java/answers/Country.java" />
@@ -233,6 +223,11 @@
         <option value="$PROJECT_DIR$/src/main/java/answers/designPatterns/decoratorPattern/RoyalSandwich.java" />
         <option value="$PROJECT_DIR$/src/main/java/answers/designPatterns/decoratorPattern/KingSandwich.java" />
         <option value="$PROJECT_DIR$/src/main/java/answers/designPatterns/decoratorPattern/DecoratorSimulator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/answers/designPatterns/adapterPattern/AdapterInterface.java" />
+        <option value="$PROJECT_DIR$/src/main/java/answers/designPatterns/adapterPattern/ClassB.java" />
+        <option value="$PROJECT_DIR$/src/main/java/answers/designPatterns/adapterPattern/ClassA.java" />
+        <option value="$PROJECT_DIR$/src/main/java/answers/designPatterns/adapterPattern/AdapterAB.java" />
+        <option value="$PROJECT_DIR$/src/main/java/answers/designPatterns/adapterPattern/AdapterSimulator.java" />
       </list>
     </option>
   </component>
@@ -327,18 +322,7 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="answers" type="462c0819:PsiDirectoryNode" />
               <item name="designPatterns" type="462c0819:PsiDirectoryNode" />
-              <item name="decoratorPattern" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jtrainer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jtrainer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="answers" type="462c0819:PsiDirectoryNode" />
-              <item name="designPatterns" type="462c0819:PsiDirectoryNode" />
-              <item name="decoratorPattern" type="462c0819:PsiDirectoryNode" />
-              <item name="decorators" type="462c0819:PsiDirectoryNode" />
+              <item name="adapterPattern" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="jtrainer" type="b2602c69:ProjectViewProjectNode" />
@@ -416,7 +400,18 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DecoratorSimulator">
+  <component name="RunManager" selected="Application.AdapterSimulator">
+    <configuration name="AdapterSimulator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="answers.designPatterns.adapterPattern.AdapterSimulator" />
+      <module name="jtrainer" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="answers.designPatterns.adapterPattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration name="DecoratorSimulator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="answers.designPatterns.decoratorPattern.DecoratorSimulator" />
       <module name="jtrainer" />
@@ -446,17 +441,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="answers.designPatterns.observerPattern_own.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="answers.recursion.task7.Solution" />
-      <module name="jtrainer" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="answers.recursion.task7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -514,19 +498,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.Solution (2)" />
       <item itemvalue="Application.StrategySimulator" />
       <item itemvalue="Application.ObserverSimulator" />
       <item itemvalue="Application.ObserverJava9Main" />
       <item itemvalue="Application.DecoratorSimulator" />
+      <item itemvalue="Application.AdapterSimulator" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AdapterSimulator" />
         <item itemvalue="Application.DecoratorSimulator" />
         <item itemvalue="Application.ObserverJava9Main" />
         <item itemvalue="Application.ObserverSimulator" />
         <item itemvalue="Application.StrategySimulator" />
-        <item itemvalue="Application.Solution (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -550,12 +534,12 @@
       <workItem from="1533644952347" duration="924000" />
       <workItem from="1533732414320" duration="3334000" />
       <workItem from="1537810538356" duration="1673000" />
-      <workItem from="1538032394086" duration="10625000" />
+      <workItem from="1538032394086" duration="11398000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="62343000" />
+    <option name="totallyTimeSpent" value="63116000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="69" y="25" width="1851" height="1055" extended-state="6" />
@@ -572,11 +556,11 @@
       <window_info anchor="right" id="Maven Projects" order="6" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="11" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32998884" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32998884" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28088644" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28088644" />
       <window_info id="Web" order="6" side_tool="true" />
       <window_info anchor="right" id="Database" order="5" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -600,41 +584,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/answers/arrays/task7/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="31" column="40" selection-start-line="17" selection-end-line="31" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/exercises/arrays/task7/SplittingUp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" column="40" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/answers/arrays/task1/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="16" selection-start-line="16" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/data/Country.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/data/Side.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/data/Superpower.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="36">
@@ -1063,6 +1012,57 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/answers/designPatterns/adapterPattern/AdapterInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/answers/designPatterns/adapterPattern/ClassB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="40" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
+          <folding>
+            <element signature="e#102#103#0" expanded="true" />
+            <element signature="e#138#139#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/answers/designPatterns/adapterPattern/ClassA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="32" lean-forward="true" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
+          <folding>
+            <element signature="e#149#150#0" expanded="true" />
+            <element signature="e#187#188#0" expanded="true" />
+            <element signature="e#222#223#0" expanded="true" />
+            <element signature="e#244#245#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/answers/designPatterns/adapterPattern/AdapterAB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+          <folding>
+            <element signature="e#161#162#0" expanded="true" />
+            <element signature="e#196#197#0" expanded="true" />
+            <element signature="e#250#251#0" expanded="true" />
+            <element signature="e#283#284#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/answers/designPatterns/adapterPattern/AdapterSimulator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
         </state>
       </provider>
     </entry>
