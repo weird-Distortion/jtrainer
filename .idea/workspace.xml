@@ -2,11 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="25a66e9a-df3f-4532-b0b3-166a437be31b" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/answers/designPatterns/adapterPattern/AdapterAB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/answers/designPatterns/adapterPattern/AdapterInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/answers/designPatterns/adapterPattern/AdapterSimulator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/answers/designPatterns/adapterPattern/ClassA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/answers/designPatterns/adapterPattern/ClassB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/answers/designPatterns/commandPattern/CommandInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/answers/designPatterns/commandPattern/CommandSimulator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/answers/designPatterns/commandPattern/Lamp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/answers/designPatterns/commandPattern/RemoteController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/answers/designPatterns/commandPattern/TurnOffCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/answers/designPatterns/commandPattern/TurnOnCommand.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -20,32 +21,95 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="DecoratorSimulator.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/answers/designPatterns/decoratorPattern/DecoratorSimulator.java">
+      <file leaf-file-name="AdapterSimulator.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/answers/designPatterns/adapterPattern/AdapterSimulator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+            <state relative-caret-position="180">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CommandSimulator.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/answers/designPatterns/commandPattern/CommandSimulator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RemoteController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/answers/designPatterns/commandPattern/RemoteController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#377#378#0" expanded="true" />
+                <element signature="e#405#406#0" expanded="true" />
+                <element signature="e#449#450#0" expanded="true" />
+                <element signature="e#478#479#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AdapterSimulator.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/answers/designPatterns/adapterPattern/AdapterSimulator.java">
+      <file leaf-file-name="CommandInterface.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/answers/designPatterns/commandPattern/CommandInterface.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="72">
-              <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+              <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AdapterInterface.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/answers/designPatterns/adapterPattern/AdapterInterface.java">
+      <file leaf-file-name="TurnOnCommand.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/answers/designPatterns/commandPattern/TurnOnCommand.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+            <state relative-caret-position="306">
+              <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+              <folding>
+                <element signature="e#166#167#0" expanded="true" />
+                <element signature="e#197#198#0" expanded="true" />
+                <element signature="e#241#242#0" expanded="true" />
+                <element signature="e#259#260#0" expanded="true" />
+                <element signature="e#311#312#0" expanded="true" />
+                <element signature="e#336#337#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TurnOffCommand.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/answers/designPatterns/commandPattern/TurnOffCommand.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+              <folding>
+                <element signature="e#176#177#0" expanded="true" />
+                <element signature="e#207#208#0" expanded="true" />
+                <element signature="e#255#256#0" expanded="true" />
+                <element signature="e#274#275#0" expanded="true" />
+                <element signature="e#326#327#0" expanded="true" />
+                <element signature="e#345#346#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Lamp.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/answers/designPatterns/commandPattern/Lamp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+              <folding>
+                <element signature="e#124#125#0" expanded="true" />
+                <element signature="e#151#152#0" expanded="true" />
+                <element signature="e#180#181#0" expanded="true" />
+                <element signature="e#208#209#0" expanded="true" />
+                <element signature="e#130#131#0" expanded="true" />
+                <element signature="e#157#158#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -93,66 +157,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Sandwich.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/answers/designPatterns/decoratorPattern/Sandwich.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
-              <folding>
-                <element signature="e#169#170#0" expanded="true" />
-                <element signature="e#191#192#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="KingSandwich.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/answers/designPatterns/decoratorPattern/KingSandwich.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
-              <folding>
-                <element signature="e#126#127#0" expanded="true" />
-                <element signature="e#157#158#0" expanded="true" />
-                <element signature="e#134#135#0" expanded="true" />
-                <element signature="e#158#159#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RoyalSandwich.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/answers/designPatterns/decoratorPattern/RoyalSandwich.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
-              <folding>
-                <element signature="e#128#129#0" expanded="true" />
-                <element signature="e#159#160#0" expanded="true" />
-                <element signature="e#138#139#0" expanded="true" />
-                <element signature="e#162#163#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Tomato.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/answers/designPatterns/decoratorPattern/decorators/Tomato.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="18" column="39" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
-              <folding>
-                <element signature="e#242#243#0" expanded="true" />
-                <element signature="e#270#271#0" expanded="true" />
-                <element signature="e#160#161#0" expanded="true" />
-                <element signature="e#187#188#0" expanded="true" />
-                <element signature="e#232#233#0" expanded="true" />
-                <element signature="e#256#257#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -177,12 +181,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/exercises/arrays/task7/SplittingUp.java" />
-        <option value="$PROJECT_DIR$/src/main/java/answers/Superhero.java" />
-        <option value="$PROJECT_DIR$/src/main/java/answers/Country.java" />
-        <option value="$PROJECT_DIR$/src/main/java/answers/DataClass.java" />
-        <option value="$PROJECT_DIR$/src/main/java/answers/collections/task1/Solution.java" />
-        <option value="$PROJECT_DIR$/src/main/java/exercises/collections/task1/SortingHeroesList.java" />
         <option value="$PROJECT_DIR$/src/main/java/exercises/collections/task2/SortingByNameLength.java" />
         <option value="$PROJECT_DIR$/src/main/java/data/Person.java" />
         <option value="$PROJECT_DIR$/src/main/java/answers/collections/task2/Solution.java" />
@@ -228,6 +226,12 @@
         <option value="$PROJECT_DIR$/src/main/java/answers/designPatterns/adapterPattern/ClassA.java" />
         <option value="$PROJECT_DIR$/src/main/java/answers/designPatterns/adapterPattern/AdapterAB.java" />
         <option value="$PROJECT_DIR$/src/main/java/answers/designPatterns/adapterPattern/AdapterSimulator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/answers/designPatterns/commandPattern/CommandInterface.java" />
+        <option value="$PROJECT_DIR$/src/main/java/answers/designPatterns/commandPattern/Lamp.java" />
+        <option value="$PROJECT_DIR$/src/main/java/answers/designPatterns/commandPattern/TurnOnCommand.java" />
+        <option value="$PROJECT_DIR$/src/main/java/answers/designPatterns/commandPattern/TurnOffCommand.java" />
+        <option value="$PROJECT_DIR$/src/main/java/answers/designPatterns/commandPattern/RemoteController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/answers/designPatterns/commandPattern/CommandSimulator.java" />
       </list>
     </option>
   </component>
@@ -322,7 +326,7 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="answers" type="462c0819:PsiDirectoryNode" />
               <item name="designPatterns" type="462c0819:PsiDirectoryNode" />
-              <item name="adapterPattern" type="462c0819:PsiDirectoryNode" />
+              <item name="commandPattern" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="jtrainer" type="b2602c69:ProjectViewProjectNode" />
@@ -400,7 +404,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.AdapterSimulator">
+  <component name="RunManager" selected="Application.CommandSimulator">
     <configuration name="AdapterSimulator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="answers.designPatterns.adapterPattern.AdapterSimulator" />
       <module name="jtrainer" />
@@ -408,6 +412,17 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="answers.designPatterns.adapterPattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="CommandSimulator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="answers.designPatterns.commandPattern.CommandSimulator" />
+      <module name="jtrainer" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="answers.designPatterns.commandPattern.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -441,17 +456,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="answers.designPatterns.observerPattern_own.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="StrategySimulator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="answers.designPatterns.strategyPattern.StrategySimulator" />
-      <module name="jtrainer" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="answers.designPatterns.strategyPattern.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -498,19 +502,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.StrategySimulator" />
       <item itemvalue="Application.ObserverSimulator" />
       <item itemvalue="Application.ObserverJava9Main" />
       <item itemvalue="Application.DecoratorSimulator" />
       <item itemvalue="Application.AdapterSimulator" />
+      <item itemvalue="Application.CommandSimulator" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CommandSimulator" />
         <item itemvalue="Application.AdapterSimulator" />
         <item itemvalue="Application.DecoratorSimulator" />
         <item itemvalue="Application.ObserverJava9Main" />
         <item itemvalue="Application.ObserverSimulator" />
-        <item itemvalue="Application.StrategySimulator" />
       </list>
     </recent_temporary>
   </component>
@@ -534,12 +538,12 @@
       <workItem from="1533644952347" duration="924000" />
       <workItem from="1533732414320" duration="3334000" />
       <workItem from="1537810538356" duration="1673000" />
-      <workItem from="1538032394086" duration="11398000" />
+      <workItem from="1538032394086" duration="12811000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="63116000" />
+    <option name="totallyTimeSpent" value="64529000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="69" y="25" width="1851" height="1055" extended-state="6" />
@@ -584,48 +588,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/data/Superpower.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/answers/collections/task1/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="27" selection-start-line="27" selection-end-line="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/exercises/collections/task1/SortingHeroesList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="26" selection-start-line="26" selection-end-line="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/exercises/collections/task2/SortingByNameLength.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="12" column="46" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/answers/arrays/task2/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1">
-          <caret line="3" column="28" lean-forward="true" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/data/DataClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-167">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/data/Person.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
@@ -1061,8 +1023,80 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/answers/designPatterns/adapterPattern/AdapterSimulator.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/answers/designPatterns/commandPattern/Lamp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+          <folding>
+            <element signature="e#124#125#0" expanded="true" />
+            <element signature="e#151#152#0" expanded="true" />
+            <element signature="e#180#181#0" expanded="true" />
+            <element signature="e#208#209#0" expanded="true" />
+            <element signature="e#130#131#0" expanded="true" />
+            <element signature="e#157#158#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/answers/designPatterns/commandPattern/TurnOffCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+          <folding>
+            <element signature="e#176#177#0" expanded="true" />
+            <element signature="e#207#208#0" expanded="true" />
+            <element signature="e#255#256#0" expanded="true" />
+            <element signature="e#274#275#0" expanded="true" />
+            <element signature="e#326#327#0" expanded="true" />
+            <element signature="e#345#346#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/answers/designPatterns/commandPattern/TurnOnCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+          <folding>
+            <element signature="e#166#167#0" expanded="true" />
+            <element signature="e#197#198#0" expanded="true" />
+            <element signature="e#241#242#0" expanded="true" />
+            <element signature="e#259#260#0" expanded="true" />
+            <element signature="e#311#312#0" expanded="true" />
+            <element signature="e#336#337#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/answers/designPatterns/commandPattern/CommandInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
-          <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/answers/designPatterns/commandPattern/RemoteController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+          <folding>
+            <element signature="e#377#378#0" expanded="true" />
+            <element signature="e#405#406#0" expanded="true" />
+            <element signature="e#449#450#0" expanded="true" />
+            <element signature="e#478#479#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/answers/designPatterns/commandPattern/CommandSimulator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
         </state>
       </provider>
     </entry>
