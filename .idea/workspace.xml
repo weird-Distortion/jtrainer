@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="25a66e9a-df3f-4532-b0b3-166a437be31b" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/answers/designPatterns/observerPattern_own/ObservableSpyAgency.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/answers/designPatterns/observerPattern_own/ObserverSimulator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/answers/designPatterns/observerPattern_own/SpyAgency.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/answers/designPatterns/observerPattern_own/observers/JohnTheSpy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/answers/designPatterns/observerPattern_own/observers/KateTheSpy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/answers/designPatterns/observerPattern_own/observers/SpyObserver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/answers/designPatterns/observerPattern_java9/ObserverJava9Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/answers/designPatterns/observerPattern_java9/SpyAgency.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/answers/designPatterns/observerPattern_java9/observers/IvanTheSpy.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -33,13 +30,62 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ObserverSimulator.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ObserverSimulator.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/answers/designPatterns/observerPattern_own/ObserverSimulator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+            <state relative-caret-position="216">
+              <caret line="12" column="46" lean-forward="true" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
               <folding>
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ObserverJava9Main.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/answers/designPatterns/observerPattern_java9/ObserverJava9Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SpyAgency.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/answers/designPatterns/observerPattern_java9/SpyAgency.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="207">
+              <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#474#475#0" expanded="true" />
+                <element signature="e#496#497#0" expanded="true" />
+                <element signature="e#604#605#0" expanded="true" />
+                <element signature="e#626#627#0" expanded="true" />
+                <element signature="e#576#577#0" expanded="true" />
+                <element signature="e#606#607#0" expanded="true" />
+                <element signature="e#728#729#0" expanded="true" />
+                <element signature="e#762#763#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IvanTheSpy.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/answers/designPatterns/observerPattern_java9/observers/IvanTheSpy.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="234">
+              <caret line="13" column="72" selection-start-line="13" selection-start-column="72" selection-end-line="13" selection-end-column="72" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#412#413#0" expanded="true" />
+                <element signature="e#442#443#0" expanded="true" />
+                <element signature="e#488#489#0" expanded="true" />
+                <element signature="e#526#527#0" expanded="true" />
+                <element signature="e#564#565#0" expanded="true" />
+                <element signature="e#598#599#0" expanded="true" />
+                <element signature="e#652#653#0" expanded="true" />
+                <element signature="e#698#699#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -48,8 +94,8 @@
       <file leaf-file-name="SpyAgency.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/answers/designPatterns/observerPattern_own/SpyAgency.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="351">
-              <caret line="31" column="13" lean-forward="true" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+            <state relative-caret-position="252">
+              <caret line="23" column="17" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#1014#1015#0" expanded="true" />
@@ -119,52 +165,13 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Shooter.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/answers/designPatterns/strategyPattern/Shooter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-              <folding>
-                <element signature="e#225#226#0" expanded="true" />
-                <element signature="e#282#283#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GunShot.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/answers/designPatterns/strategyPattern/Behavior/GunShot.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="5" column="53" selection-start-line="5" selection-start-column="53" selection-end-line="5" selection-end-column="53" />
-              <folding>
-                <element signature="e#146#147#0" expanded="true" />
-                <element signature="e#182#183#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RockShot.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/answers/designPatterns/strategyPattern/Behavior/RockShot.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="5" column="55" selection-start-line="5" selection-start-column="55" selection-end-line="5" selection-end-column="55" />
-              <folding>
-                <element signature="e#146#147#0" expanded="true" />
-                <element signature="e#182#183#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -182,9 +189,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/exercises/arrays/task2/FriendsLengthOrder.java" />
-        <option value="$PROJECT_DIR$/src/main/java/exercises/arrays/task1/FriendsOrder.java" />
-        <option value="$PROJECT_DIR$/src/main/java/exercises/arrays/task1/SuperheroesOrder.java" />
         <option value="$PROJECT_DIR$/src/main/java/exercises/arrays/task2/SuperheroesLengthOrder.java" />
         <option value="$PROJECT_DIR$/src/main/java/answers/arrays/task1/Solution.java" />
         <option value="$PROJECT_DIR$/src/main/java/answers/arrays/task2/Solution.java" />
@@ -233,6 +237,9 @@
         <option value="$PROJECT_DIR$/src/main/java/answers/designPatterns/observerPattern_own/observers/ObservableSpyAgency.java" />
         <option value="$PROJECT_DIR$/src/main/java/answers/designPatterns/observerPattern_own/SpyAgency.java" />
         <option value="$PROJECT_DIR$/src/main/java/answers/designPatterns/observerPattern_own/ObserverSimulator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/answers/designPatterns/observerPattern_java9/observers/IvanTheSpy.java" />
+        <option value="$PROJECT_DIR$/src/main/java/answers/designPatterns/observerPattern_java9/SpyAgency.java" />
+        <option value="$PROJECT_DIR$/src/main/java/answers/designPatterns/observerPattern_java9/ObserverJava9Main.java" />
       </list>
     </option>
   </component>
@@ -327,7 +334,7 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="answers" type="462c0819:PsiDirectoryNode" />
               <item name="designPatterns" type="462c0819:PsiDirectoryNode" />
-              <item name="observerPattern_own" type="462c0819:PsiDirectoryNode" />
+              <item name="observerPattern_java9" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="jtrainer" type="b2602c69:ProjectViewProjectNode" />
@@ -337,7 +344,7 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="answers" type="462c0819:PsiDirectoryNode" />
               <item name="designPatterns" type="462c0819:PsiDirectoryNode" />
-              <item name="observerPattern_own" type="462c0819:PsiDirectoryNode" />
+              <item name="observerPattern_java9" type="462c0819:PsiDirectoryNode" />
               <item name="observers" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -416,7 +423,18 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ObserverSimulator">
+  <component name="RunManager" selected="Application.ObserverJava9Main">
+    <configuration name="ObserverJava9Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="answers.designPatterns.observerPattern_java9.ObserverJava9Main" />
+      <module name="jtrainer" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="answers.designPatterns.observerPattern_java9.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration name="ObserverSimulator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="answers.designPatterns.observerPattern_own.ObserverSimulator" />
       <module name="jtrainer" />
@@ -446,17 +464,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="answers.recursion.task7.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="Solution (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="answers.recursion.task5.Solution" />
-      <module name="jtrainer" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="answers.recursion.task5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -514,19 +521,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.Solution (4)" />
       <item itemvalue="Application.Solution (1)" />
       <item itemvalue="Application.Solution (2)" />
       <item itemvalue="Application.StrategySimulator" />
       <item itemvalue="Application.ObserverSimulator" />
+      <item itemvalue="Application.ObserverJava9Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ObserverJava9Main" />
         <item itemvalue="Application.ObserverSimulator" />
         <item itemvalue="Application.StrategySimulator" />
         <item itemvalue="Application.Solution (2)" />
         <item itemvalue="Application.Solution (1)" />
-        <item itemvalue="Application.Solution (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -550,12 +557,12 @@
       <workItem from="1533644952347" duration="924000" />
       <workItem from="1533732414320" duration="3334000" />
       <workItem from="1537810538356" duration="1673000" />
-      <workItem from="1538032394086" duration="4273000" />
+      <workItem from="1538032394086" duration="5786000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="55991000" />
+    <option name="totallyTimeSpent" value="57504000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="69" y="25" width="1851" height="1055" extended-state="6" />
@@ -572,11 +579,11 @@
       <window_info anchor="right" id="Maven Projects" order="6" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="11" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32998884" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32998884" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28088644" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28088644" />
       <window_info id="Web" order="6" side_tool="true" />
       <window_info anchor="right" id="Database" order="5" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -600,27 +607,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/exercises/arrays/task2/SuperheroesLengthOrder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/exercises/arrays/task4/Spies.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/exercises/arrays/task3/Leader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/util/function/Consumer.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
@@ -979,8 +965,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/answers/designPatterns/observerPattern_own/SpyAgency.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="31" column="13" lean-forward="true" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+        <state relative-caret-position="252">
+          <caret line="23" column="17" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#1014#1015#0" expanded="true" />
@@ -993,13 +979,56 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/answers/designPatterns/observerPattern_java9/observers/IvanTheSpy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="72" selection-start-line="13" selection-start-column="72" selection-end-line="13" selection-end-column="72" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#412#413#0" expanded="true" />
+            <element signature="e#442#443#0" expanded="true" />
+            <element signature="e#488#489#0" expanded="true" />
+            <element signature="e#526#527#0" expanded="true" />
+            <element signature="e#564#565#0" expanded="true" />
+            <element signature="e#598#599#0" expanded="true" />
+            <element signature="e#652#653#0" expanded="true" />
+            <element signature="e#698#699#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/answers/designPatterns/observerPattern_own/ObserverSimulator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        <state relative-caret-position="216">
+          <caret line="12" column="46" lean-forward="true" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/answers/designPatterns/observerPattern_java9/SpyAgency.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#474#475#0" expanded="true" />
+            <element signature="e#496#497#0" expanded="true" />
+            <element signature="e#604#605#0" expanded="true" />
+            <element signature="e#626#627#0" expanded="true" />
+            <element signature="e#576#577#0" expanded="true" />
+            <element signature="e#606#607#0" expanded="true" />
+            <element signature="e#728#729#0" expanded="true" />
+            <element signature="e#762#763#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/answers/designPatterns/observerPattern_java9/ObserverJava9Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
         </state>
       </provider>
     </entry>
