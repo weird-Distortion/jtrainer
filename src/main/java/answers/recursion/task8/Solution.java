@@ -2,7 +2,7 @@ package answers.recursion.task8;
 
 /**
  * TODO complete lore
- * 
+ *
  * Task:
  * Implement Ackermann function.
  * https://en.wikipedia.org/wiki/Ackermann_function
